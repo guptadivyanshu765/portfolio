@@ -143,8 +143,8 @@ function Services() {
 function Stats() {
   const items = [
     { value: '🏆',   suffix: '',  label: 'Challenge Winner · Apr 2026' },
-    { value: '10',   suffix: '',  label: 'Published n8n workflows' },
-    { value: '1000', suffix: '+', label: 'Workflow installs' },
+    { value: '20',   suffix: '+', label: 'Published n8n workflows' },
+    { value: '2000', suffix: '+', label: 'Workflow installs' },
     { value: '✓',    suffix: '',  label: 'n8n Verified Creator' },
   ];
   return (

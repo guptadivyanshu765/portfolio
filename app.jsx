@@ -129,9 +129,9 @@ function Hero({ showNodeGraph, headingStyle }) {
               </a>
             </div>
             <div className="hero-meta">
-              <span>10 n8n workflows published</span>
+              <span>20+ n8n workflows published</span>
               <span className="dot" />
-              <span>1000+ workflow installs</span>
+              <span>2000+ workflow installs</span>
               <span className="dot" />
               <span>Remote first, open to relocation</span>
             </div>
@@ -255,7 +255,7 @@ function Workflows() {
 
             <div style={{ marginTop: 40, display: 'flex', justifyContent: 'center' }}>
               <a className="btn btn-ghost" href={PROFILE_URL} target="_blank" rel="noreferrer">
-                View all 10 workflows on n8n
+                View all workflows on n8n
                 <span className="arrow">↗</span>
               </a>
             </div>
